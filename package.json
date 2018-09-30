@@ -21,8 +21,7 @@
     "build": "babel-node buildScripts/build.js",
     "postbuild": "babel-node buildScripts/distServer.js"
   },
-  "author": "Cory House",
-  "license": "MIT",
+  "author": "Aviad Bitton",
   "dependencies": {
     "global": "^4.3.2",
     "whatwg-fetch": "1.0.0"
